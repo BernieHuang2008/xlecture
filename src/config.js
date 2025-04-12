@@ -1,1 +1,1 @@
-export const APIROOT = 'http://localhost:5002';
+export const APIROOT = 'https://bh-svr-0.berniehg.top:5202';
